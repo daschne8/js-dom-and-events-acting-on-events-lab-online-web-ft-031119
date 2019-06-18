@@ -13,5 +13,5 @@ function addNewElementAsLi(){
   const targetUl = document.getElementById('employee-list')
   let element = document.createElement('li')
   element.innerHTML = name
-  targetUl.append(element)
+  targetUl.appendChild(element)
 }
