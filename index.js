@@ -16,5 +16,6 @@ function addNewElementAsLi(){
   targetUl.appendChild(element)
 }
 function addNewLiOnClick(){
-
+  let submit = document.querySelector('input[type="submit"]')
+  addNewElementAsLi()
 }
