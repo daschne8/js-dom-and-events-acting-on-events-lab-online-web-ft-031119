@@ -6,5 +6,5 @@ function preventRefreshOnSubmit(){
 
 preventRefreshOnSubmit()
 function retrieveEmployeeInformation(){
-  return $('input')
+  return document.body.querySelector('input')
 }
