@@ -15,3 +15,6 @@ function addNewElementAsLi(){
   element.innerHTML = name
   targetUl.appendChild(element)
 }
+function addNewLiOnClick(){
+  
+}
