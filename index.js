@@ -23,3 +23,6 @@ function addNewLiOnClick(){
     input.value = ''
    })
 }
+function clearEmployeeListOnLinkClick(){
+  let clearLink = document.querySelector('ul.employee-list')
+}
