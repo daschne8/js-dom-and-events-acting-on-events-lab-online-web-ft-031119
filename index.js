@@ -10,4 +10,6 @@ function retrieveEmployeeInformation(){
 }
 function addNewElementAsLi(){
   const name = retrieveEmployeeInformation()
+  const targetUl = document.getElementById('employee-list')
+  
 }
