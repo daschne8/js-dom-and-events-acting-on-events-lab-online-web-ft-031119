@@ -16,5 +16,5 @@ function addNewElementAsLi(){
   targetUl.appendChild(element)
 }
 function addNewLiOnClick(){
-  
+
 }
