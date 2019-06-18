@@ -8,3 +8,6 @@ preventRefreshOnSubmit()
 function retrieveEmployeeInformation(){
   return document.body.querySelector('input').value
 }
+function addNewElementAsLi(){
+  const name = retrieveEmployeeInformation()
+}
