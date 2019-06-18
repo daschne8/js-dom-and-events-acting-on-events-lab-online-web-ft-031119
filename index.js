@@ -5,6 +5,6 @@ function preventRefreshOnSubmit(){
 }
 
 preventRefreshOnSubmit()
-function retrieveEmployeeInformation(input){
-
+function retrieveEmployeeInformation(){
+  
 }
