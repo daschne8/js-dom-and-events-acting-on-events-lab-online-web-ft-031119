@@ -11,5 +11,6 @@ function retrieveEmployeeInformation(){
 function addNewElementAsLi(){
   const name = retrieveEmployeeInformation()
   const targetUl = document.getElementById('employee-list')
-
+  let element = targetUl.createElement('li')
+  targetUl.
 }
